@@ -2,7 +2,7 @@
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Alisson Andrade</h1>
-<p align = "justify">Backend, Front-end Developer e mobile, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
+<p align = "justify">Backend, Front-end and mobile Developer, Coffee Lover, Javascript Fan and SPA, Performance Curious, @reactjs, @Nodejs and etc. Currently studying the tracks of ReactJS and NodeJS - 1st group of ignite by rocketseat.</p>
 
 I currently work at [ESAT](https://www3.sefaz.pb.gov.br/esat/)
 
