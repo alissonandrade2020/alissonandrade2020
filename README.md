@@ -16,7 +16,7 @@ I'm a {backend, frontend and mobile} developer and technical alissonltda [@Aliss
 
 ## Apresentação
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 Courses - These are technical courses in various technologies, such as NodeJS, React, ReactNative, Flutter, PHP, Codeigniter, Worpress, Docker, MySQL, Git and much more.
+- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - These are technical courses in various technologies, such as NodeJS, React, ReactNative, Flutter, PHP, Codeigniter, Worpress, Docker, MySQL, Git and much more.
 - [CV](https://alissonandradesistema.000webhostapp.com/curriculo/) ✍🏼 - Here you can find a little +1 about my career
 - [Website](http://alissondeandradearaujo.000webhostapp.com/) 💻 - Profile.
 
