@@ -4,9 +4,9 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Alisson Andrade</h1>
 <p align = "justify">Backend, Front-end Developer e mobile, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
 
-I currently work at ESAT [ESAT](https://www3.sefaz.pb.gov.br/esat/)
+I currently work at [ESAT](https://www3.sefaz.pb.gov.br/esat/)
 
-I'm learning at the moment **ReactJS, Node.js, Banco de Dados e ReactNative**
+I'm learning at the moment **ReactJS, Node.js, Banco de Dados - IGNITE - > [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/alissonandrade2020/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190/)
