@@ -8,11 +8,11 @@ I'm a {backend, frontend and mobile} developer and technical alissonltda [@Aliss
 
 ## Rocketseat 
 
-[@Profile](https://app.rocketseat.com.br/me/alissondeandradearaujo/)
+:point_right: [@Profile](https://app.rocketseat.com.br/me/alissondeandradearaujo/)
 
 ## Curriculo lattes
 
-[@CurriculoLattes](http://lattes.cnpq.br/7594653859194302)
+:point_right: [@CurriculoLattes](http://lattes.cnpq.br/7594653859194302)
 
 ## Apresentação
 
