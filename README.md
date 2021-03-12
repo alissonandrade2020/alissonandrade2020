@@ -10,7 +10,7 @@ I'm learning at the moment **ReactJS, Node.js, Banco de Dados e ReactNative**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/alissonandrade2020/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190/)
-[![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@alissonandrade/)](http://alissondeandradearaujo.000webhostapp.com/)
+[![Medium Badge](https://img.shields.io/badge/-@alissonandradel-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@alissonandrade/)](http://alissondeandradearaujo.000webhostapp.com/)
 
 ## 🚀💻 Technologies & Tools
 
