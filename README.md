@@ -19,3 +19,4 @@ I'm a {backend, frontend and mobile} developer and technical [@Site](http://alis
 - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - These are technical courses in various technologies, such as NodeJS, React, ReactNative, Flutter, PHP, Codeigniter, Worpress, Docker, MySQL, Git and much more.
 - [CV](https://alissonandradesistema.000webhostapp.com/curriculo/) ✍🏼 - Here you can find a little +1 about my career
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alissonandrade2020)](https://github.com/alissonandrade2020/github-readme-stats)
