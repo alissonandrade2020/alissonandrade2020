@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190/)
 
 ### About me
-I'm a {backend, frontend and mobile} developer and technical [@Site](http://alissondeandradearaujo.000webhostapp.com/).
+I'm a {backend, frontend and mobile} developer and technical - acesse [@Site](http://alissondeandradearaujo.000webhostapp.com/).
 
 ## Rocketseat 
 
