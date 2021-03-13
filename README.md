@@ -22,7 +22,7 @@ I'm learning at the moment **ReactJS, Node.js, Banco de Dados - IGNITE - > [Rock
 ![SASS](https://img.shields.io/badge/-SASS-pink?style=pink-square&logo=sass)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-red?style=flat-square&logo=flutter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
