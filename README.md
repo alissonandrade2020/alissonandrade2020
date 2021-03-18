@@ -44,6 +44,7 @@ I'm learning at the moment **ReactJS, Node.js, Banco de Dados - IGNITE - > [Rock
 <h3>:iphone: &nbsp;Mobile</h3>
 
 ![Reactnative](https://img.shields.io/badge/-Reactnative-blue?style=flat-square&logo=Reactnative)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 
 
