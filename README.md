@@ -25,7 +25,6 @@ I'm learning at the moment **ReactJS, Node.js, Banco de Dados - IGNITE - > [Rock
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
-![Flutter](https://img.shields.io/badge/-Flutter-red?style=flat-square&logo=flutter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -44,8 +43,8 @@ I'm learning at the moment **ReactJS, Node.js, Banco de Dados - IGNITE - > [Rock
 
 <h3>:iphone: &nbsp;Mobile</h3>
 
-![Reactnative](https://img.shields.io/badge/-Reactnatives-yellow?style=flat-square&logo=Reactnative)
-![Flutter](https://img.shields.io/badge/-Flutter-yellow?style=flat-square&logo=Flutter)
+![Reactnative](https://img.shields.io/badge/-Reactnative-blue?style=flat-square&logo=Reactnative)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 
 
 ## ⚡ GitHub Stats
