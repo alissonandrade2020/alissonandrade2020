@@ -14,8 +14,9 @@ I'm learning at the moment **ReactJS, Node.js, Banco de Dados - IGNITE - > [Rock
 
 ## 🚀💻 Technologies & Tools
 
+<h3>💻 &nbsp;Front-end:</h3>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
@@ -26,15 +27,25 @@ I'm learning at the moment **ReactJS, Node.js, Banco de Dados - IGNITE - > [Rock
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-red?style=flat-square&logo=flutter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+<h3>⚙️ &nbsp;Back-end and database:</h3>
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
+
+<h3>:iphone: &nbsp;Mobile</h3>
+
+![Reactnative](https://img.shields.io/badge/-Reactnatives-yellow?style=flat-square&logo=Reactnative)
+![Flutter](https://img.shields.io/badge/-Flutter-yellow?style=flat-square&logo=Flutter)
 
 
 ## ⚡ GitHub Stats
