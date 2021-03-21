@@ -55,4 +55,4 @@ I'm learning at the moment **ReactJS, Node.js, Banco de Dados - IGNITE - > [Rock
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonandrade2020&hide=TeX&layout=compact)
 
 ## What i'm using
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielsouza&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonandrade2020&theme=blue-green)
