@@ -52,7 +52,6 @@ I'm learning at the moment **ReactJS, Node.js, Banco de Dados - IGNITE - > [Rock
 ## ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alissonandrade2020&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonandrade2020&hide=TeX&layout=compact)
 
 ## What i'm using
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonandrade2020&theme=blue-green)
