@@ -8,7 +8,7 @@ I currently work at [ESAT](https://www3.sefaz.pb.gov.br/esat/)
 
 I'm learning at the moment **![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react), ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js), miscellaneous database - IGNITE - > [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
 
-but also in parallel with the studies cited above developing in ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)/Laravel
+but also in parallel with the studies mentioned above developing in ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)/Laravel
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/alissonandrade2020/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190/)
