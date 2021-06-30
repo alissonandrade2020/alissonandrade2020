@@ -49,11 +49,3 @@ but also in parallel with the studies cited above developing in ![PHP](https://i
 ![Reactnative](https://img.shields.io/badge/-Reactnative-blue?style=flat-square&logo=Reactnative)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-
-
-## ⚡ GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alissonandrade2020&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-
-## What i'm using
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonandrade2020&theme=blue-green)
