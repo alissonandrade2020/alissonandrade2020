@@ -21,6 +21,7 @@ but also in parallel with the studies mentioned above developing in ![PHP](https
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel)
+![Zend framework](https://img.shields.io/badge/-Zendframework-green?style=flat-square&logo=Zend framework)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
