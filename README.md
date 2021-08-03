@@ -6,7 +6,7 @@
 
 I currently work at [ESAT](https://www3.sefaz.pb.gov.br/esat/)
 
-I'm learning at the moment **![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react), ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js), miscellaneous database - IGNITE - > [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
+I signed up for the **![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) and ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js) tracks, I'm currently finishing the **![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) track, the ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js) track and several databases - already finished - IGNITE -> [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
 
 but also in parallel with the studies mentioned above developing in ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
 
