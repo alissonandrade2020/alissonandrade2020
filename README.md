@@ -4,7 +4,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Alisson Andrade</h1>
 <p align = "justify">Backend, Front-end and mobile Developer, Coffee Lover, Javascript Fan and SPA, Performance Curious, @reactjs, @Nodejs and etc. Currently studying the tracks of ReactJS and NodeJS - 1st group of ignite by rocketseat.</p>
 
-I currently work at [BRASÃO SISTEMAS](https://brasaosistemas.com.br/) como desenvolvedor REACTJS - 27/09/2021 
+I currently work at [BRASÃO SISTEMAS](https://brasaosistemas.com.br/) como desenvolvedor REACTJS - 27/09/2021.
 
 I signed up for the ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) and ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js) tracks, I'm currently finishing the **![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) track, the ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js) track and several databases - already finished - IGNITE -> [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
 
