@@ -4,7 +4,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Alisson Andrade</h1>
 <p align = "justify">Backend, Front-end and mobile Developer, Coffee Lover, Javascript Fan and SPA, Performance Curious, @reactjs, @Nodejs and etc. Currently studying the tracks of ReactJS and NodeJS - 1st group of ignite by rocketseat.</p>
 
-I was a developer for almost 08 months at the company [BRASÃO SISTEMAS](https://brasaosistemas.com.br/) as a REACTJS developer (Experience with Reactjs 2 to 3 years),
+I was a developer for almost 08 months at the company [BRASÃO SISTEMAS](https://brasaosistemas.com.br/) as a REACTJS developer (Experience with Reactjs 3 to 4 years),
 
 I also have skill with ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php) - ESAT for almost 8 years.
 
