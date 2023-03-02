@@ -6,7 +6,7 @@
 
 I was a developer for almost 08 months at the company [BRASÃO SISTEMAS](https://brasaosistemas.com.br/) as a REACTJS developer (Experience with Reactjs 3 to 4 years),
 
-I also have skill with ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php) - ESAT for almost 9 years.
+I also have skill with ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php) - ESAT for almost 10 years.
 
 I signed up for the ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) and ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js) tracks, I'm currently finishing the **![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) track, the ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js) track and several databases - already finished - IGNITE -> [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
 
