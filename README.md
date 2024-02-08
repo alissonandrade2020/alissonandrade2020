@@ -4,11 +4,11 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I am Alisson Andrade</h1>
 <p align = "justify">Backend, Front-end and mobile Developer, Coffee Lover, Javascript Fan and SPA, Performance Curious, @reactjs, @Nodejs and etc. Currently studying the tracks of ReactJS and NodeJS - 1st group of ignite by rocketseat.</p>
 
-I was a developer for almost 08 months at the company [BRASÃO SISTEMAS](https://brasaosistemas.com.br/) as a REACTJS developer (Experience with Reactjs 3 to 4 years),
+I was a developer for almost 08 months at the company [BRASÃO SISTEMAS](https://brasaosistemas.com.br/) as a REACTJS developer (Experience with Reactjs +4 years),
 
 I also have skill with ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php) - ESAT for almost 10 years.
 
-I signed up for the ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) and ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js) tracks, I'm currently finishing the **![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) track, the ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js) track and several databases - already finished - IGNITE -> [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
+I did the ignite tracks ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) and ![Nodejs](https://img.shields. io /badge/-Nodejs-yellow?style=flat-square&logo=Node.js), I finished **![React](https://img.shields.io/badge/-React-black? style=flat- square&logo=react), the ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js) track and multiple databases - completed - IGNITE -> [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/alissonandrade2020/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190/)
