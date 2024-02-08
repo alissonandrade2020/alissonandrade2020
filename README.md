@@ -8,7 +8,7 @@ I was a developer for almost 08 months at the company [BRASÃO SISTEMAS](https:/
 
 I also have skill with ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php) - ESAT +10 years.
 
-I did the ignite tracks ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) and ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js), I finished and multiple databases - completed - IGNITE -> [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
+I did the ignite tracks ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  and  ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js), I finished and multiple databases - completed - IGNITE -> [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/alissonandrade2020/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190/)
