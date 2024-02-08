@@ -6,7 +6,7 @@
 
 I was a developer for almost 08 months at the company [BRASÃO SISTEMAS](https://brasaosistemas.com.br/) as a REACTJS developer (Experience with Reactjs +4 years),
 
-I also have skill with ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php) - ESAT for almost 10 years.
+I also have skill with ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php) - ESAT +10 years.
 
 I did the ignite tracks ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) and ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js), I finished **![React](https://img.shields.io/badge/-React-black? style=flat- square&logo=react), the ![Nodejs](https://img.shields.io/badge/-Nodejs-yellow?style=flat-square&logo=Node.js) track and multiple databases - completed - IGNITE -> [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)**
 
